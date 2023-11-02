@@ -3,7 +3,7 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #0066ff;
+    --color-primary: rgb(64,130,109);
     --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
@@ -36,8 +36,7 @@ body {
 
 header,
 main {
-    background: rgb(64,130,109);
-background: linear-gradient(18deg, rgba(64,130,109,1) 0%, rgba(41,142,108,1) 79%);
+    background-color: var(--color-background);
     color: var(--color-on-background);
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
