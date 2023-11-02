@@ -41,7 +41,7 @@ q::after {
 }
 
 a {
-    color: inherit;
+    color: rgb(130, 60, 109);
     text-decoration: inherit;
 }
 
@@ -51,7 +51,7 @@ img {
 
 input,
 button {
-    color: inherit;
+    color: rgb(35, 35, 47);
 }
 
 h1,
