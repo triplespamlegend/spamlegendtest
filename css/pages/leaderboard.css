@@ -47,7 +47,7 @@
     width: 100%;
 }
 .page-leaderboard .board .user button {
-    background-color: var(--color-background);
+    background-color: rgb(37, 37, 47);
     color: var(--color-on-background);
     border: none;
     border-radius: 0.5rem;
