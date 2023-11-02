@@ -11,13 +11,6 @@
 .page-roulette .sidebar a:hover {
     color: white;
 }
-input[type="checkbox"] {
-    height: 1.25rem;
-    width: 1.25rem;
-    cursor: pointer;
-    margin: 0;
-    color: rgb(54,120,99);
-}
 .page-roulette .sidebar .check {
     display: flex;
     gap: 0.5rem;
@@ -126,12 +119,6 @@ input[type="checkbox"] {
     .page-roulette .levels-container {
         grid-column: 2;
         padding-right: 0;
-    }
-    .nav .nav__actions .nav__cta {
-    margin-left: 1rem;
-    padding: 1rem;
-    background-color: var(--color-on-primary);
-    color: rgb(54,120,99);
     }
     .page-roulette .toasts-container {
         grid-column: 3;
