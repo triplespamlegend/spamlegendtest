@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: column;
     gap: 2rem;
-    background: rgb(64,130,109)
+    background: rgb(64,130,109);
     align-items: flex-start;
 }
 .page-roulette .sidebar a {
