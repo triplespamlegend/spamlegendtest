@@ -1,10 +1,4 @@
 :root {
-    --color-background: rgb(64,130,109);
-    --color-on-background: black;
-    --color-background-hover: #eee;
-    --color-on-background-hover: black;
-    --color-primary: rgb(64,130,109);
-    --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
 }
@@ -36,8 +30,8 @@ body {
 
 header,
 main {
-    background-color: rgb(64,130,109);
-    color: rgb(35, 35, 45);
+    background-color: rgb(35, 35, 47);
+    color: white;
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
             16em,
@@ -50,8 +44,8 @@ header {
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
-    background-color: var(--color-primary);
-    color: var(--color-on-primary);
+    background-color: rgb(64,130,109);
+    color: white;
 }
 @media screen and (min-width: 1366px) {
     header {
