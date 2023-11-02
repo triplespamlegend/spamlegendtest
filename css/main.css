@@ -30,7 +30,7 @@ body {
 
 header,
 main {
-    background-color: rgb(35, 35, 47);
+    background: linear-gradient(18deg, rgba(64,130,109,1) 0%, rgba(41,142,108,1) 79%);
     color: white;
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
