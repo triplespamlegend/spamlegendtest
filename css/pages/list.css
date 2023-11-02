@@ -41,7 +41,7 @@
     color: var(--color-on-background-hover);
 }
 .page-list .list .level.active button {
-    background-color: var(--color-primary);
+    background-color: rgb(64,130,109);
     color: var(--color-on-primary);
 }
 .page-list .level-container .level {
