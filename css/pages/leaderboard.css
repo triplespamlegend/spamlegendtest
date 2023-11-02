@@ -48,7 +48,7 @@
 }
 .page-leaderboard .board .user button {
     background-color: rgb(37, 37, 47);
-    color: var(--color-on-background);
+    color: white;
     border: none;
     border-radius: 0.5rem;
     padding: 1rem;
@@ -58,11 +58,11 @@
 }
 .page-leaderboard .board .user button:hover {
     background-color: var(--color-background-hover);
-    color: var(--color-on-background-hover);
+    color: white;
     cursor: pointer;
 }
 .page-leaderboard .board .user.active button {
-    background-color: var(--color-primary);
+    background-color: rgb(64,130,109);
     color: var(--color-on-primary);
 }
 .page-leaderboard .player {
