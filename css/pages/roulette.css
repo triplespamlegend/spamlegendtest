@@ -9,7 +9,7 @@
     text-decoration: underline;
 }
 .page-roulette .sidebar a:hover {
-    color: var(--color-on-background);
+    color: white;
 }
 
 .page-roulette .sidebar .check {
@@ -50,7 +50,7 @@
     grid-auto-rows: max-content;
     border-radius: 0.5rem;
     overflow: hidden;
-    background-color: var(--color-background-hover);
+    background-color: rgb(64,130,109);
 }
 .page-roulette .levels .level .video img {
     width: 100%;
@@ -66,7 +66,7 @@
 }
 .page-roulette .levels .level .actions {
     grid-column: 1 / span 2;
-    background-color: #1b314f;
+    background-color: rgb(64,130,109);
     margin: 0;
     padding: 1rem;
     display: flex;
@@ -76,7 +76,7 @@
     border: none;
     border-radius: 0.5rem;
     padding: 0.7rem;
-    background-color: #475a7b;
+    background-color: rgb(64,130,109);
     flex: 1;
     color: white;
 }
@@ -110,7 +110,7 @@
 }
 .page-roulette .toast {
     display: flex;
-    background-color: #d50000;
+    background-color: rgb(64,130,109);
     color: white;
     padding: 1rem;
     border-radius: 0.5rem;
