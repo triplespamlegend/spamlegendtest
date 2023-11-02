@@ -50,7 +50,7 @@
     grid-auto-rows: max-content;
     border-radius: 0.5rem;
     overflow: hidden;
-    background-color: rgb(37, 37, 43);
+    background-color: rgb(30, 30, 40);
 }
 .page-roulette .levels .level .video img {
     width: 100%;
