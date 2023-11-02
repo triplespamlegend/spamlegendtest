@@ -10,10 +10,12 @@
 }
 .page-roulette .sidebar a:hover {
     color: white;
+    background: rgb(64,130,109);
 }
 
 .page-roulette .sidebar .check {
     display: flex;
+    background: rgb(64,130,109);
     gap: 0.5rem;
     align-items: center;
 }
@@ -76,12 +78,12 @@
     border: none;
     border-radius: 0.5rem;
     padding: 0.7rem;
-    background-color: rgb(37, 37, 48);
+    background-color: rgb(0, 0, 0);
     flex: 1;
     color: white;
 }
 .page-roulette .levels .level .actions input[type="number"]::placeholder {
-    color: #7487aa;
+    color: #ffffff;
 }
 .page-roulette .levels .results {
     display: flex;
