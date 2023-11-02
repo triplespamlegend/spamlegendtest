@@ -1,0 +1,18 @@
+{
+    "id": 83116092,
+    "name": "Spam Legend x100",
+    "author": "Artyr1337",
+    "creators": ["NXISE", "Artyr1337"],
+    "verifier": "Artyr1337",
+    "verification": "https://youtu.be/yNYPV_ZYmf8",
+    "percentToQualify": 0,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "nucleus",
+            "link": "https://youtu.be/yNYPV_ZYmf8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
