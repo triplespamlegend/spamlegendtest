@@ -9,6 +9,28 @@
     "password": "N/A",
     "records": [
         {
+            "user": "EmpanadR",
+            "link": "https://youtu.be/b7rdA7RXSq8?si=TbabSlyMZACVvYJh",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "JoinMolten",
+            "link": "https://youtu.be/_LwvSAt0CNU?si=nAHqt0ap_J9PB97_",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "nucleus",
+            "link": "https://youtu.be/-xMqGid3-ZM?si=hXpjtr58p6Jt-JiI",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "Ray131",
+            "link": "https://youtu.be/tdFShPpMNf0?si=7j-o32sT0kd6N40y",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
