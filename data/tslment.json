@@ -1,0 +1,18 @@
+{
+    "id": 79363659,
+    "name": "TripleSpamLegouement",
+    "author": "Ray131",
+    "creators": ["NXISE", "Ray131", "Synactive"],
+    "verifier": "Ray131",
+    "verification": "https://youtu.be/LsVNMeS_Wgk",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "nucleus",
+            "link": "https://youtu.be/LsVNMeS_Wgk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
