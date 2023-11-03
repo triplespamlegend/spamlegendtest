@@ -1,0 +1,18 @@
+{
+    "id": 65545141,
+    "name": "WhyTheLongSpamLegend",
+    "author": "NXISE",
+    "creators": [],
+    "verifier": "NXISE",
+    "verification": "https://www.youtube.com/watch?v=hK7v8GKQT1E",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+        {
+          "user": "nucleus",
+          "percent": 100,
+          "hz": 60,
+          "link": "https://youtu.be/QEd8ypgXUsY?si=ZOGtMoyYGYntMy9V"
+        }
+    ]
+}
