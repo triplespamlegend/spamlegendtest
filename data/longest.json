@@ -1,0 +1,18 @@
+{
+    "id": 85054769,
+    "name": "WhyTheLongestSpamLeg",
+    "author": "EmpanadR",
+    "creators": [],
+    "verifier": "EmpanadR",
+    "verification": "https://youtu.be/1G3V9otQeP4",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "nucleus",
+            "link": "https://youtu.be/1G3V9otQeP4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
