@@ -5,7 +5,7 @@
     "creators": ["NXISE", "nucleus"],
     "verifier": "nucleus",
     "verification": "https://youtu.be/f84el8nZdVc",
-    "percentToQualify": 0,
+    "percentToQualify": 100,
     "password": "N/A",
     "records": [
         {
