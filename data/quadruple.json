@@ -2,9 +2,7 @@
     "id": 83116092,
     "name": "Quadruple Spam Legend",
     "author": "JoinMolten",
-    "creators": [
-        
-    ],
+    "creators": [],
     "verifier": "JoinMolten",
     "verification": "https://youtu.be/uhTXT7HJzkk?si=0L0pcee1eH50mDY1",
     "percentToQualify": 100,
@@ -39,6 +37,6 @@
             "link": "https://youtu.be/uhTXT7HJzkk?si=0L0pcee1eH50mDY1",
             "percent": 100,
             "hz": 60,
-        },
+        }
     ]
 }
