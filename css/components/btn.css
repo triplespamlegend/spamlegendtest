@@ -4,7 +4,7 @@
     font: inherit;
     padding: 1rem;
     margin: 0;
-    background-color: var(--color-primary);
+    background-color: rgb(64,130,109);
     color: var(--color-on-primary);
     border-radius: 0.5rem;
     box-shadow: 0 1px 0.5rem 0 rgba(0, 0, 102, 0.5);
