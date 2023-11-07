@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "N/A",
     "records": [
+        {
+"user": "JoeBTD",
+"percent": 100,
+"hz": 60
+        }
     ]
 }
