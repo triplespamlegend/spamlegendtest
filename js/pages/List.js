@@ -89,7 +89,6 @@ export default {
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
                     <template v-if="editors">
-                    <iframe src="https://discord.com/widget?id=1171445767647547414&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                         <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
