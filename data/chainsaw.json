@@ -24,13 +24,15 @@
             "user": "nucleus",
             "link": "https://youtu.be/-xMqGid3-ZM?si=hXpjtr58p6Jt-JiI",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
          {
             "user": "Ray131",
             "link": "https://youtu.be/tdFShPpMNf0?si=7j-o32sT0kd6N40y",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
