@@ -12,7 +12,8 @@
             "user": "nucleus",
             "link": "https://www.youtube.com/watch?v=e4pdHjWuZJQ",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
 {
             "user": "WhizKid05",
@@ -24,13 +25,15 @@
             "user": "me !",
             "link": "https://youtu.be/sDwNW2vShqc?si=ozLW_PBqk8wvB4K2",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
 {
             "user": "Ray131",
             "link": "https://youtu.be/XbL8sksT73c?si=dE2SiD1U2Lgnzibj",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
 {
             "user": "NXISE",
