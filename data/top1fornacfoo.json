@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "N/A",
     "records": [
+        {
+"user": "nucleus",
+"link": "https://youtu.be/AHk3DUOG-bE?si=t_dT4KSH_ZTo37zE",
+"percent": 100,
+"hz": 60
+        }
     ]
 }
