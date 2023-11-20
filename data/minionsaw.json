@@ -13,6 +13,12 @@
 "percent": 100,
 "hz": 60,
 "mobile": true
+        },
+        {
+            "user": "EmpanadR",
+            "link": "https://youtu.be/WQ7mqTaubVE?si=q77QxcFGQWMOa5g5",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
