@@ -1,1 +1,19 @@
-
+{
+    "id": 96657093,
+    "name": "Spam Leg Real",
+    "author": "PPPixel",
+    "creators": [],
+    "verifier": "PPPixel",
+    "verification": "https://www.youtube.com/watch?v=RD0vprMilSw",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "nucleus",
+            "link": "https://youtu.be/9YIRYHN_N7A?si=c_Gk3SiMnVy7ZzVB",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        }
+    ]
+}
