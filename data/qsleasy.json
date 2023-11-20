@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "N/A",
     "records": [
+        {
+            "user": "EmpanadR",
+            "link": "https://youtu.be/QgJKggurea8?si=ikr3CJgqtX8aW2rJ",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
