@@ -1,1 +1,19 @@
-
+{
+    "id": 66173428,
+    "name": "Double Spam Legend",
+    "author": "BensonGD",
+    "creators": [],
+    "verifier": "BensonGD",
+    "verification": "https://www.youtube.com/watch?v=DDfu9CDqf-g",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "AstraloFY",
+            "link": "https://youtu.be/JDnkPKWdDV8?si=Fiv_QbkEaYYYcYUE",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        }
+    ]
+}
