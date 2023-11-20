@@ -100,10 +100,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks. There is one exception though, if you pass a certain number of spams you can submit that as a completion. (Ex. You got past 3rd spam on OSL, you can submit that as a TSL completion as long as you played the OSL on the list.)
+                        Achieved the record without using hacks.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. There is one exception though, if you pass a certain number of spams you can submit that as a completion. (Ex. You got past 3rd spam on OSL, you can submit that as a TSL completion as long as you played the OSL on the list.)
                     </p>
                     <p>
                         Have clicks/taps in the video. If no taps are audible we cannot accept your record.
