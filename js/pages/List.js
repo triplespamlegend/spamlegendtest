@@ -114,11 +114,9 @@ export default {
                     <p>
                         If you submit a challenge, the spam MUST be the Spam Legend click pattern. This means it must be a frame perfect spam, must be 15 cps, and must be a 3 frames up 1 frame down pattern.
                     </p>
+                    <p>                     Your level must be at least harder than Spam Legend. It must also have a bare minimum of 6 uninterrupted clicks within the spam segment. </p>
                     <p>
                         You must play on 60FPS. Any higher or lower values will not be accepted.
-                    </p>
-                    <p>
-                    Your level must be at least harder than Spam Legend. It must also have a bare minimum of 6 uninterrupted clicks within the spam segment.
                     </p>
                 </div>
             </div>
