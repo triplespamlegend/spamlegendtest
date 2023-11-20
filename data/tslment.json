@@ -12,7 +12,8 @@
             "user": "nucleus",
             "link": "https://youtu.be/LsVNMeS_Wgk",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
