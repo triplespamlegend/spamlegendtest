@@ -71,7 +71,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
+                                <p>{{ record.hz }}fps</p>
                             </td>
                         </tr>
                     </table>
@@ -116,6 +116,9 @@ export default {
                     </p>
                     <p>
                         You must play on 60FPS. Any higher or lower values will not be accepted
+                    </p>
+                    <p>
+                    Your level must be at least harder than Spam Legend. It must also have a bare minimum of 6 uninterrupted clicks within the spam segment.
                     </p>
                 </div>
             </div>
