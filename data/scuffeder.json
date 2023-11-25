@@ -1,1 +1,18 @@
-
+{
+    "id": 96717249,
+    "name": "scuffeder legend",
+    "author": "qz8",
+    "creators": [],
+    "verifier": "EmpanadR",
+    "verification": "https://youtu.be/8RiIHH5R808?si=N_nV2tFGNSAobUEX",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "nucleus",
+            "link": "https://youtu.be/Bl7sc_INcNU?si=7yrZ_24Z-adD2I-R",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}
