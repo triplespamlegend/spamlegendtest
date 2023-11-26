@@ -166,7 +166,8 @@
                 {
 "user": "JoeBTD",
 "percent": 100,
-"hz": 60
+"hz": 60,
+"mobile": true
         },
         {
         "user": "Typel",
@@ -176,7 +177,8 @@
         {
             "user": "sodiumhydroxide",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
