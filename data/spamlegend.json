@@ -172,6 +172,11 @@
         "user": "Typel",
         "percent": 100,
         "hz": 60
+        },
+        {
+            "user": "sodiumhydroxide",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
