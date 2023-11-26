@@ -1,1 +1,12 @@
-
+{
+    "id": 96828048,
+    "name": "3 seconds spam",
+    "author": "nucleus",
+    "creators": ["nucleus", "UFWM"],
+    "verifier": "nucleus",
+    "verification": "https://youtu.be/I6CGDKKVKWI?si=KUB_BT6c0WS0AkOi",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+    ]
+}
