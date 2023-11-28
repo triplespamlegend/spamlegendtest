@@ -179,6 +179,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "PPPixel",
+            "percent": 100,
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=ismKzYJ0N_o"
         }
     ]
 }
