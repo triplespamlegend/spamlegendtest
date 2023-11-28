@@ -14,6 +14,12 @@
         "mobile": true,
         "percent": 100,
         "link": "https://youtu.be/AnDFLeksHao?si=_1iI-A6dSL_uTbtF"
-      }
+      },
+      {
+            "user": "PPPixel",
+            "percent": 100,
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=ismKzYJ0N_o"
+        }
     ]
 }
