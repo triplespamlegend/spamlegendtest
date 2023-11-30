@@ -1,4 +1,5 @@
- "id": 96853930,
+{
+"id": 96853930,
     "name": "Hitbox Legend",
     "author": "TheCrazyCreator",
     "creators": [],
@@ -6,4 +7,6 @@
     "verification": "https://youtu.be/iQb87nXOFCI?si=ceTmn_AhgEc791Rj",
     "percentToQualify": 100,
     "password": "N/A",
-    "records":
+    "records": [
+    ]
+}
