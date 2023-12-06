@@ -26,6 +26,12 @@
             "user": "Typel",
             "hz": 60,
             "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "hz": 60,
+            "link": "https://youtu.be/JSvahiHbhVc?si=4n-XS76vmoDNQVQU",
+            "percent": 100
         }
     ]
 }
