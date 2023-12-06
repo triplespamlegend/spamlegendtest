@@ -14,6 +14,12 @@
           "hz": 60,
           "link": "https://youtu.be/LS1WzT0tANI?si=T0e586WgAHh81tTY",
         "mobile": true
+        },
+        {
+            "user": "PaperGuy",
+            "hz": 60,
+            "link": "https://youtu.be/JSvahiHbhVc?si=4n-XS76vmoDNQVQU",
+            "percent": 100
         }
     ]
 }
