@@ -187,6 +187,13 @@
             "percent": 100,
             "mobile": true,
             "link": "https://www.youtube.com/watch?v=s84ohnkierg"
+        },
+        {
+            "user": "Nolixity",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true,
+            "link": "https://youtu.be/OEh9G75vCB0"
         }
     ]
 }
