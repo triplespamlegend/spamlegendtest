@@ -32,6 +32,12 @@
             "hz": 60,
             "link": "https://youtu.be/v2uZtP3snvU",
             "percent": 100
+        },
+        {
+            "user": "EmpanadR",
+            "link": "https://www.youtube.com/watch?v=GwYTnFuW0bE",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
