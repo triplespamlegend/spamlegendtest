@@ -1,12 +1,18 @@
 {
-    "id": 95301418,
+    "id": 97264641,
     "name": "Mariano Rajoy",
     "author": "Tector9",
     "creators": [],
     "verifier": "Tector9",
-    "verification": "https://www.youtube.com/watch?v=aFsGMpoUOS8",
+    "verification": "https://www.youtu.be/YC-LsWSPjlQ",
     "percentToQualify": 100,
     "password": "N/A",
     "records": [
+{
+    "user": "nucleus",
+    "hz": 60,
+    "mobile": true,
+    "link": "https://youtu.be/r8TpoJ2OsLc"
+}
     ]
 }
