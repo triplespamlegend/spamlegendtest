@@ -41,7 +41,7 @@
     color: white;
 }
 .page-list .list .level.active button {
-    background-color: linear-gradient(90deg, rgba(64,130,109,1) 0%, rgba(130,212,186,1) 100%);
+    background-color: linear-gradient(90deg, rgb(64,130,109) 0%, rgb(130,212,186) 100%);
     color: var(--color-on-primary);
 }
 .page-list .level-container .level {
