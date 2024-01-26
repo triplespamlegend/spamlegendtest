@@ -4,6 +4,7 @@
     font: inherit;
     padding: 1rem;
     margin: 0;
+    background-color: rgb(64,130,109);
     background-color: linear-gradient(90deg, rgba(64,130,109,1) 0%, rgba(130,212,186,1) 100%);
     color: var(--color-on-primary);
     border-radius: 0.5rem;
